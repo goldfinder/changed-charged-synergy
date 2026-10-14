@@ -1,6 +1,6 @@
 # Security policy
 
-Changed: Synergy is a game mod, but its network handlers still process client input on a server.
+Changed: Charged Synergy is a game mod, but its network handlers still process client input on a server.
 
 Report a security issue through GitHub private vulnerability reporting when it is available. If it is not enabled, open an issue that asks for a private contact channel and omit exploit details from the public post.
 
