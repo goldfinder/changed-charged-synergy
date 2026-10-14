@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/main/resources/changed_synergy.png" alt="Changed: Synergy logo" width="160">
+  <img src="src/main/resources/Changed_Charged_Synergy.png" alt="Changed: Charged Synergy logo" width="160">
 </p>
 
 <h1 align="center">Changed: Charged Synergy</h1>
