@@ -1,3 +1,6 @@
+-# AI GENERATED, CLAUDE SONNET5.5 @ MEDIUM EFFORT
+
+
 # .lookup - codebase map
 # Generated 2026-10-14 by gen_lookup.py. Auto sections regenerate; Verdict/Notes/PLAN are for hand edits.
 
