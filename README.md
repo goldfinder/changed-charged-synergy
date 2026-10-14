@@ -1,3 +1,7 @@
+
+> [!WARNING]
+> Mod in development, things may be too similar to Changed: Synergy until a future point.
+
 <p align="center">
   <img src="src/main/resources/Changed_Charged_Synergy.png" alt="Changed: Charged Synergy logo" width="160">
 </p>
