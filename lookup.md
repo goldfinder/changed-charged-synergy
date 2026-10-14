@@ -5,14 +5,14 @@ AI GENERATED, CLAUDE SONNET 5.5 @ MEDIUM EFFORT
 # Generated 2026-10-14 by gen_lookup.py. Auto sections regenerate; Verdict/Notes/PLAN are for hand edits.
 
 ## 1. Identity
-- Mod: Changed: Synergy (mod_id `changed_synergy`, group `net.parkabird.changedsynergy`)
+- Mod: `Changed: Synergy` (mod_id `changed_synergy`, group `net.parkabird.changedsynergy`)
 - Upstream author: ParkaBird   License: GNU General Public License v3.0 or later
 - Version at fork point: 1.1.3+mc1.20.1-changed0.15.7
 - Target: Minecraft 1.20.1, Forge 47.4.21, mappings official
 - Source size: 350 Java files, 72691 lines; 88 mixin classes
 - Fork goal: LTS rewrite - deeper behaviors, new features, wider compat
 - Fork repo: goldfinder/changed-charged-synergy
-- Fork rename: Changed: Charged Synergy
+- Fork rename: `Changed: Charged Synergy`
 
 ## 2. Dependency direction (from docs/ARCHITECTURE.md)
 - Hard dep: Changed. Optional: Addon Plus, Additions, Extras, Vanilla, Domestication Innovation, Curios, FurMutage, Survive Protocol, firearms mods.
