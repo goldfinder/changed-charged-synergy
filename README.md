@@ -2,15 +2,15 @@
   <img src="src/main/resources/changed_synergy.png" alt="Changed: Synergy logo" width="160">
 </p>
 
-<h1 align="center">Changed: Synergy</h1>
+<h1 align="center">Changed: Charged Synergy</h1>
 
 <p align="center">
   A relationship-focused Forge addon for <em>Changed</em> on Minecraft 1.20.1.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ParkaBird/changed-synergy/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/ParkaBird/changed-synergy?include_prereleases&label=release"></a>
-  <a href="https://github.com/ParkaBird/changed-synergy/blob/main/LICENSE.txt"><img alt="GPL-3.0-or-later" src="https://img.shields.io/badge/license-GPL--3.0--or--later-blue"></a>
+  <a href="https://github.com/goldfinder/changed-charged-synergy/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/goldfinder/changed-charged-synergy?include_prereleases&label=release"></a>
+  <a href="https://github.com/goldfinder/changed-charged-synergy/blob/main/LICENSE.txt"><img alt="GPL-3.0-or-later" src="https://img.shields.io/badge/license-GPL--3.0--or--later-blue"></a>
   <img alt="Minecraft 1.20.1" src="https://img.shields.io/badge/Minecraft-1.20.1-62B47A">
   <img alt="Forge 47.4.x" src="https://img.shields.io/badge/Forge-47.4.x-E04E14">
 </p>
@@ -42,9 +42,7 @@ Creatures have persistent names, individual personalities, memories and social b
 
 The full feature list, screenshots and release downloads are available on the project pages:
 
-- [Modrinth](https://modrinth.com/mod/changed-synergy)
-- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/changed-synergy)
-- [GitHub releases](https://github.com/ParkaBird/changed-synergy/releases)
+- [GitHub releases](https://github.com/goldfinder/changed-charged-synergy/releases)
 
 ## Requirements
 
@@ -124,7 +122,7 @@ Before opening an issue, check [KNOWN_ISSUES.md](KNOWN_ISSUES.md) and test witho
 - whether Changed Addon Plus, Changed Additions or Changed Vanilla is installed
 - steps that reproduce the problem
 
-Use the [issue tracker](https://github.com/ParkaBird/changed-synergy/issues) for reproducible bugs. The [Changed: Synergy Discord](https://discord.gg/3yscxe2YgN) is available for discussion, feedback and development updates.
+Use the [issue tracker](https://github.com/goldfinder/changed-charged-synergy/issues) for reproducible bugs. The [Changed: Synergy Discord](https://discord.gg/3yscxe2YgN) is available for discussion, feedback and development updates.
 
 ## Contributing
 
