@@ -12,6 +12,7 @@ AI GENERATED, CLAUDE SONNET 5.5 @ MEDIUM EFFORT
 - Source size: 350 Java files, 72691 lines; 88 mixin classes
 - Fork goal: LTS rewrite - deeper behaviors, new features, wider compat
 - Fork repo: goldfinder/changed-charged-synergy
+- Fork rename: Changed: Charged Synergy
 
 ## 2. Dependency direction (from docs/ARCHITECTURE.md)
 - Hard dep: Changed. Optional: Addon Plus, Additions, Extras, Vanilla, Domestication Innovation, Curios, FurMutage, Survive Protocol, firearms mods.
