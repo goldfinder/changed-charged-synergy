@@ -21,7 +21,7 @@
 
 Changed: Charged Synergy turns aggressive latex creatures into neighbors you can actually get along with. An orange or a friendly pat will often get you further than fists and blades. Transfur is not always the end. Sometimes, you can even talk your way back out of it.
 
-Charged Synergy adds the ability to "Submit" to being a infectable subject to allied factions, become infected by headless, and more features that are missing, or not avaliable inside of Synergy.  Charged synergy also intends to remove pain-points of the original Changed: Synergy mod, adding new UI tabs, the ability to use wrapped infect abilities, and much more little details that were left out, or expunged from changed synergy.
+Charged Synergy adds the ability to "Submit" to being a infectable subject to allied factions, become infected by headless, and more features that are missing, or not avaliable inside of Synergy.  Charged synergy also intends to remove pain-points of the original Changed: Synergy mod, adding new UI tabs, the ability to use wrapped infect abilities, and much more.
 
 Creatures have persistent names, individual personalities, memories and social behavior. You can befriend them, build affection, form one voluntary bond and watch them interact with their surroundings.
 
